@@ -1,0 +1,1 @@
+This is some text that we will save and stage in our terminal using $ git add and $ git commit -m ""
